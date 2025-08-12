@@ -15,3 +15,5 @@ Menganalisis data penjualan menggunakan Power BI Desktop untuk memberikan gambar
 - Mempertahankan dan meningkatkan kualitas Regular Air Delivery sebagai metode pengiriman favorit pelanggan.
 - Mengalokasikan lebih banyak sumber daya pemasaran ke Corporate segment yang menyumbang 34% total penjualan.
 - Menyusun strategi retensi untuk Home Office dan Consumer segment agar kontribusinya meningkat.
+
+<img width="1100" height="615" alt="dasaboard-bi" src="https://github.com/user-attachments/assets/267dd2f0-e1d6-4095-9c87-1eedda044066" />
